@@ -1,3 +1,4 @@
+/* re-ordered selectors to follow universal, element, class order */
 * {
     box-sizing: border-box;
     padding: 0;
