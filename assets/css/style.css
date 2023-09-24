@@ -50,8 +50,8 @@ p {
     display: inline-block;
     margin-left: 25px;
 }
-
-.hero {
+/* This class is for the image that appears at the top of the page */
+.hero { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -69,7 +69,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Effects the seo, online reputation management, and social media marketing sections */
 .content {
     width: 75%;
     display: inline-block;
